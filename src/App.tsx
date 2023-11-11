@@ -10,6 +10,7 @@ function App() {
                 <p>
                     Cristian Ibarra
                 </p>
+                <p> isabel renteria  </p>
                 <p>
                     Kevin Sepulveda
                 </p>
